@@ -31,3 +31,13 @@ body{
     padding: 0;
     /* background-color: #f7f7f7; */
 }
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
