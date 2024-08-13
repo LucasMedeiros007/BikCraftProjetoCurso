@@ -1,0 +1,9 @@
+.header{
+    background-color: #000;
+    display: flex;
+}
+
+.logo{
+    color: var(--w);
+    font-size: var(--font-1-xxl);
+}
