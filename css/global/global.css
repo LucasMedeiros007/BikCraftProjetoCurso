@@ -6,7 +6,6 @@ body{
     margin: 0;
     color: #141414;
     padding: 0;
-    height: 2000px;
     /* background-color: #f7f7f7; */
 }
 
@@ -25,7 +24,7 @@ img{
     display: block;
 }
 
-h1, h2, h3, h4, ul, p{
+h1, h2, h3, h4, ul, p, blockquote, dd{
     margin: 0px;
 }
 
